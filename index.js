@@ -7,6 +7,6 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(parseInt(height)+20000000000000000000)
+console.log(parseInt(height)+1)
 
  
